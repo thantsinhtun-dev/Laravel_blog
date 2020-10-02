@@ -1,0 +1,4 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "php.validate.executablePath": "C://xampp//php"
+}
